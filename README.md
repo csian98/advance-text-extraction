@@ -32,8 +32,8 @@
 
 ## 🔐 License
 
-Copyright © 2026, _Jeong Hoon Choi_ or _Sian_. All rights reserved
-Distributed under the MIT License. See `LICENSE` for more information.
+Copyright © 2026, All rights reserved Distributed under the MIT License.
+See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
