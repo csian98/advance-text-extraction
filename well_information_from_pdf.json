@@ -1,0 +1,2235 @@
+[
+  {
+    "file": "W11745.txt",
+    "well_info": {
+      "well_name_and_number": "SFN 5698 (03-2000) MAR 7 2016",
+      "api": "33-053-02102",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "392\u2019 FSL & 494\u2019 FWL in the SW SW Section 2,",
+      "datum": "__THICK",
+      "latitude": "48.1000",
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": null,
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": null,
+      "acid_pct": null,
+      "lbs_proppant": null,
+      "max_treatment_pressure_psi": null,
+      "max_treatment_rate_bbls_min": null,
+      "details": null
+    }
+  },
+  {
+    "file": "W11920.txt",
+    "well_info": {
+      "well_name_and_number": "Corps of Engineers 31-10",
+      "api": "33-053-02148",
+      "operator": null,
+      "county_state": "Kenzie County, North Dakota",
+      "well_shl": "s and fmenaured and crue vertical depths for alt markers and rnes perti-",
+      "datum": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": null,
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": null,
+      "acid_pct": null,
+      "lbs_proppant": null,
+      "max_treatment_pressure_psi": null,
+      "max_treatment_rate_bbls_min": null,
+      "details": null
+    }
+  },
+  {
+    "file": "W15358.txt",
+    "well_info": {
+      "well_name_and_number": "SFN 5698 (03-2000) MAR 7 2016 \"G35",
+      "api": "33-053-02556",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "County:",
+      "datum": ".",
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": null,
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": null,
+      "acid_pct": null,
+      "lbs_proppant": null,
+      "max_treatment_pressure_psi": null,
+      "max_treatment_rate_bbls_min": null,
+      "details": null
+    }
+  },
+  {
+    "file": "W20197.txt",
+    "well_info": {
+      "well_name_and_number": "Wade Federal 5300 21-30H",
+      "api": "33-053-03413",
+      "operator": null,
+      "county_state": "McKenzie County, North Dakota",
+      "well_shl": "2220' FNL & 230' FWL",
+      "datum": "| Taednes| Urn 2H",
+      "latitude": "48\u00b0 2'49.420N",
+      "longitude": "103\u00b036'1.54"
+    },
+    "stimulation_data": {
+      "date_stimulated": "7/3/2011",
+      "stimulated_formation": "Bakken",
+      "top_ft": 11082,
+      "bottom_ft": null,
+      "stimulated_in": "Cased Hole",
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": "Barrels",
+      "type_treatment": null,
+      "acid_pct": null,
+      "lbs_proppant": 4440376,
+      "max_treatment_pressure_psi": 9679,
+      "max_treatment_rate_bbls_min": 42.3,
+      "details": "40/70 sand - 723,700 lbs\n20/40 sand- 1,006,140 Ibs\n20/40 ceramic- 2,710,536"
+    }
+  },
+  {
+    "file": "W20407.txt",
+    "well_info": {
+      "well_name_and_number": "Chalmers 5301 31-19H",
+      "api": "33-053-03472",
+      "operator": null,
+      "county_state": "McKenzie County, North Dakota",
+      "well_shl": "1535'FSL & 375\u00b0 FWL",
+      "datum": "WAS BASED UPON",
+      "latitude": "48\u00b003'26.47",
+      "longitude": "103\u00b036'09"
+    },
+    "stimulation_data": {
+      "date_stimulated": "Stimulated Formation Top (Ft) | Bottom (Ft)/Stimulation Stages",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Details",
+      "acid_pct": null,
+      "lbs_proppant": 1818580,
+      "max_treatment_pressure_psi": null,
+      "max_treatment_rate_bbls_min": null,
+      "details": "40/70 white- 1818580\n20/40 ceramic- 2720544"
+    }
+  },
+  {
+    "file": "W20863.txt",
+    "well_info": {
+      "well_name_and_number": "Foley Federal 43-12H",
+      "api": "33-053-03608",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": "Top (ROP} Top Top {MASL} Thickness | to Target | Prognosis | Bray 5301 43- Lindvig 1. | RoseBud 22-",
+      "latitude": "48\u00b004'57.94",
+      "longitude": "103\u00b036'41.78\""
+    },
+    "stimulation_data": {
+      "date_stimulated": "14/6/2011",
+      "stimulated_formation": "Bakken",
+      "top_ft": 10162,
+      "bottom_ft": 20440,
+      "stimulated_in": "Cased Hole",
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 8877,
+      "max_treatment_pressure_psi": 43,
+      "max_treatment_rate_bbls_min": null,
+      "details": "40/79 white- 1825104\n20/40 white- 2694188"
+    }
+  },
+  {
+    "file": "W20864.txt",
+    "well_info": {
+      "well_name_and_number": "Bray 5301 43-12H",
+      "api": "33-053-03609",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": "WAS BASED UPON",
+      "latitude": "48\u00b004'57.96",
+      "longitude": "103\u00b036'43"
+    },
+    "stimulation_data": {
+      "date_stimulated": "Sand Frac",
+      "stimulated_formation": null,
+      "top_ft": 8762,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": 37.7,
+      "volume_units": null,
+      "type_treatment": "Date Stimulated Stimulated Formation Top (Ft) |Bottom (Ft)|Stimulation Stages Volume Units",
+      "acid_pct": null,
+      "lbs_proppant": null,
+      "max_treatment_pressure_psi": null,
+      "max_treatment_rate_bbls_min": null,
+      "details": "Type Treatment Lbs Proppant {Maximum Treatment Pressure (PS!) | Maximum Treatment Rate (BBLS/Min)"
+    }
+  },
+  {
+    "file": "W21266.txt",
+    "well_info": {
+      "well_name_and_number": "Dahl 15-11H",
+      "api": "33-053-03703",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "and to the lease",
+      "datum": "GRS 1980",
+      "latitude": "48\u00b004'56.376\" N",
+      "longitude": "103\u00b038'09.239"
+    },
+    "stimulation_data": {
+      "date_stimulated": "01/11/2012",
+      "stimulated_formation": "Bakken",
+      "top_ft": 10952,
+      "bottom_ft": 20850,
+      "stimulated_in": null,
+      "stimulation_stages": 13,
+      "volume": 1822380,
+      "volume_units": null,
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 1450600,
+      "max_treatment_pressure_psi": 8842,
+      "max_treatment_rate_bbls_min": 45.5,
+      "details": "Pumped 999,800# 20/40 sand, 450,800 40/70 sand, 1,822,380 Gals total fluid in 13 stages over 4 days (1/8/11 - 1/11/12) at a maximum rate of 45.5\nbpm and maximum pressure of 8842 psi."
+    }
+  },
+  {
+    "file": "W21796.txt",
+    "well_info": {
+      "well_name_and_number": "Dahl Federal 2-15H",
+      "api": "33-053-03846",
+      "operator": null,
+      "county_state": "Kenzie County, ND",
+      "well_shl": "700\u2019 FNL & 2026' FEL SEC 15, T153N, R101 W, McKenzie County, North Dakota",
+      "datum": "GRS 1980",
+      "latitude": "48\u00b004'49.25",
+      "longitude": "103\u00b039'20.15"
+    },
+    "stimulation_data": {
+      "date_stimulated": "05/19/2012",
+      "stimulated_formation": "Bakken",
+      "top_ft": 10956,
+      "bottom_ft": 20924,
+      "stimulated_in": null,
+      "stimulation_stages": 20,
+      "volume": 77312,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3053400,
+      "max_treatment_pressure_psi": 844,
+      "max_treatment_rate_bbls_min": 57.0,
+      "details": "Pumped 1,992,000 20/40 sand, 97,400# 30/70 sand, 964,000# 40/70 sand, 77,312 Bblis total fluid in 20 stages over 3 days (5/17/12 - 5/19/12) at a\nmaximum rate of 57.0 bpm and maximum pressure of 8844 psi."
+    }
+  },
+  {
+    "file": "W22099.txt",
+    "well_info": {
+      "well_name_and_number": "Yukon 5301 41-12T",
+      "api": "33-053-03911",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "and to the lease",
+      "datum": "Mean Sea Level",
+      "latitude": "48\u00b004'58",
+      "longitude": "103\u00b037'13"
+    },
+    "stimulation_data": {
+      "date_stimulated": "08/31/2013",
+      "stimulated_formation": "Bakken",
+      "top_ft": 11126,
+      "bottom_ft": 21220,
+      "stimulated_in": null,
+      "stimulation_stages": 36,
+      "volume": 100130,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3649776,
+      "max_treatment_pressure_psi": 9294,
+      "max_treatment_rate_bbls_min": 39.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W22220.txt",
+    "well_info": {
+      "well_name_and_number": "Jefferies 5301 43-12B",
+      "api": "33-053-03936",
+      "operator": null,
+      "county_state": "OPERATOR RIG",
+      "well_shl": "and to the lease",
+      "datum": "WAS BASED UPON",
+      "latitude": "48\u00b004'58.07\"N",
+      "longitude": "103\u00b036'51.83\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "3/15/2012",
+      "stimulated_formation": "Bakken ___t__",
+      "top_ft": 14093,
+      "bottom_ft": 21220,
+      "stimulated_in": null,
+      "stimulation_stages": 36,
+      "volume": 83063,
+      "volume_units": null,
+      "type_treatment": "Sand Free L_. te _",
+      "acid_pct": null,
+      "lbs_proppant": 4580494,
+      "max_treatment_pressure_psi": 8488,
+      "max_treatment_rate_bbls_min": 46.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W22221.txt",
+    "well_info": {
+      "well_name_and_number": "Innoko 5301 41-127",
+      "api": "33-053-03911",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": "Mean Sea Level",
+      "latitude": "48\u00b003'13",
+      "longitude": "103\u00b056'49"
+    },
+    "stimulation_data": {
+      "date_stimulated": "09/07/2013",
+      "stimulated_formation": "Bakken",
+      "top_ft": 11117,
+      "bottom_ft": 21122,
+      "stimulated_in": null,
+      "stimulation_stages": 36,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3765029,
+      "max_treatment_pressure_psi": 8782,
+      "max_treatment_rate_bbls_min": null,
+      "details": "Volume Volume Units\n90354 Barrels"
+    }
+  },
+  {
+    "file": "W22247.txt",
+    "well_info": {
+      "well_name_and_number": "Magnum 1-36-25H",
+      "api": "33-053-03943",
+      "operator": null,
+      "county_state": "McKenzie County, North Dakota",
+      "well_shl": ")",
+      "datum": "RKB 22.00' @ 2209.00ft (Nabors 419)",
+      "latitude": "48\u00b001'30.33",
+      "longitude": "103\u00b037'20"
+    },
+    "stimulation_data": {
+      "date_stimulated": "3/30/2012",
+      "stimulated_formation": "Middle Bakken",
+      "top_ft": 20700,
+      "bottom_ft": 38498,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": "Barrels",
+      "type_treatment": "Details",
+      "acid_pct": null,
+      "lbs_proppant": null,
+      "max_treatment_pressure_psi": null,
+      "max_treatment_rate_bbls_min": null,
+      "details": "Frac'd the Middle Bakken with the 32 stages, using fracturing sleeves and packers, with 284,720# of 100 Mesh Sand, 960,580# of 20/40 Sand, and\n1,017,220# 18/40 Versalite."
+    }
+  },
+  {
+    "file": "W22249.txt",
+    "well_info": {
+      "well_name_and_number": "Magnum 2-36-25H",
+      "api": "33-053-03944",
+      "operator": null,
+      "county_state": "API Number",
+      "well_shl": ")",
+      "datum": "of NAVD 88",
+      "latitude": "48\u00b001'29.869",
+      "longitude": "103\u00b036'23.042"
+    },
+    "stimulation_data": {
+      "date_stimulated": "41/44/2012",
+      "stimulated_formation": "Middle Bakken",
+      "top_ft": 22133,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 1160090,
+      "max_treatment_pressure_psi": 8403,
+      "max_treatment_rate_bbls_min": 39.7,
+      "details": "Deta ls\nFractured the Middle Bakken with 32, stages using fracturing sleeves and packers, with 346204# of 20/40 White Sand, 182669# of 40/70 White\nSand, 631217# of 20/40 Ceramic, and 22133 bbls of clean water."
+    }
+  },
+  {
+    "file": "W22731.txt",
+    "well_info": {
+      "well_name_and_number": "Magnum 3-36-25H",
+      "api": "33-053-04069",
+      "operator": null,
+      "county_state": "W 103 36\" 16.88040\"",
+      "well_shl": ")",
+      "datum": "Used Professional Consulting Engineers",
+      "latitude": "48\u00b001'29.869",
+      "longitude": "103\u00b036'18.972"
+    },
+    "stimulation_data": {
+      "date_stimulated": null,
+      "stimulated_formation": "Middle Bakken",
+      "top_ft": 40332,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 7548,
+      "max_treatment_pressure_psi": 34,
+      "max_treatment_rate_bbls_min": null,
+      "details": null
+    }
+  },
+  {
+    "file": "W22740.txt",
+    "well_info": {
+      "well_name_and_number": "Larry 5301 44-12B",
+      "api": "33-053-04071",
+      "operator": null,
+      "county_state": "of North Dakota sto wit:",
+      "well_shl": "or approx.",
+      "datum": "WAS BASED UPON",
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": "09/08/2012",
+      "stimulated_formation": "Bakken",
+      "top_ft": 11080,
+      "bottom_ft": 21140,
+      "stimulated_in": null,
+      "stimulation_stages": 36,
+      "volume": 80480,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3600530,
+      "max_treatment_pressure_psi": 9705,
+      "max_treatment_rate_bbls_min": 39.5,
+      "details": "40/70 sand: 1,401,330\n30/70 sand: 2,199,200"
+    }
+  },
+  {
+    "file": "W23230.txt",
+    "well_info": {
+      "well_name_and_number": "ASH FEDERAL 5300 11-18T",
+      "api": "33-053-04211",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "and to the lease",
+      "datum": "WAS BASED UPON",
+      "latitude": "48\u00b004'47.25",
+      "longitude": "103\u00b036'03.72\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "10/26/2012",
+      "stimulated_formation": "Three Forks",
+      "top_ft": 11101,
+      "bottom_ft": 20482,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": 92216,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3700348,
+      "max_treatment_pressure_psi": 9214,
+      "max_treatment_rate_bbls_min": 42.2,
+      "details": null
+    }
+  },
+  {
+    "file": "W23359.txt",
+    "well_info": {
+      "well_name_and_number": "Atlanta 14-6H",
+      "api": "33-105-02719",
+      "operator": null,
+      "county_state": "Williams County, North Dakota",
+      "well_shl": "CASING:",
+      "datum": "FAX: 701-523~-5243",
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": "Tye Treatment",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": null,
+      "acid_pct": null,
+      "lbs_proppant": 3009408,
+      "max_treatment_pressure_psi": 8352,
+      "max_treatment_rate_bbls_min": 28.0,
+      "details": "Pu nped 124649# 40/70 mesh, 2065196# 20/40 sand and 819563# 20/40 creamic."
+    }
+  },
+  {
+    "file": "W23360.txt",
+    "well_info": {
+      "well_name_and_number": "Atlanta 13-6H",
+      "api": "33-105-02720",
+      "operator": null,
+      "county_state": "Williams County, ND",
+      "well_shl": "CASING:",
+      "datum": "Calculation method",
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": "Date: Stimulated Stimulated Formation Top (Ft) | Bottom (Ft)} Stimulation Stages Volume Volume Units",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3069694,
+      "max_treatment_pressure_psi": 7468,
+      "max_treatment_rate_bbls_min": 26.0,
+      "details": "Det ils\nPurmiped 130508# 40/70 mesh, 2207547# 20/40 sand and 862147# 20/40 creamic."
+    }
+  },
+  {
+    "file": "W23361.txt",
+    "well_info": {
+      "well_name_and_number": "Atlanta 12-6H",
+      "api": "33-105-02721",
+      "operator": null,
+      "county_state": "[NorthDakota TS stAreince: | ssofeastwest: | 8.00]",
+      "well_shl": "CASING:",
+      "datum": "is Mean Sea Level Vertical Datum to DDZ 1967.00 ft",
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": "Dat: Stimulated Stimulated Formation Top (Ft) | Bottom (Ft)|Stimulation Stages Volume Units",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Sard Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3098438,
+      "max_treatment_pressure_psi": 8528,
+      "max_treatment_rate_bbls_min": 30.0,
+      "details": "Detiails\nPuriped 127023# 40/70 mesh, 2085421# 20/40 sand and 885994# 20/40 ceramic."
+    }
+  },
+  {
+    "file": "W23362.txt",
+    "well_info": {
+      "well_name_and_number": "SFN 5698 (03-2000)",
+      "api": "33-105-02722",
+      "operator": null,
+      "county_state": "Williams County, ND",
+      "well_shl": "CASING:",
+      "datum": "is Mean Sea Level Vertical Datum to DDZ 1967.00 ft",
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": "1/12/2014",
+      "stimulated_formation": "Middle Bakken",
+      "top_ft": 10896,
+      "bottom_ft": 19697,
+      "stimulated_in": null,
+      "stimulation_stages": 29,
+      "volume": 48847,
+      "volume_units": "Barrels",
+      "type_treatment": "Sanc Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3069436,
+      "max_treatment_pressure_psi": 8094,
+      "max_treatment_rate_bbls_min": 30.0,
+      "details": "Pumped 124519# 40/70 mesh, 2121332# 20/40 sand and 948104# 20/40 ceramic."
+    }
+  },
+  {
+    "file": "W23363.txt",
+    "well_info": {
+      "well_name_and_number": "Atlanta Federal 10-6H",
+      "api": "33-105-02723",
+      "operator": null,
+      "county_state": "[Williams ---SSSS~\u00abdSTATE: ND --~=~S~S~*~*dTRGETINGL; ~--=\u00abdi_=SC*~\u201c\u2018\u201c\u2018*C*C\u00e9SQQ(iUANSTIWEST:, ~----<\u00ab|-SCSCSC~S~\u00ab OO",
+      "well_shl": "CASING:",
+      "datum": "Calculation method Minimum curvature (CYCLONE 2 (RKB) to Facility Vertical Datum",
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": "Typ Treatment Acid % Lbs Proppant Maximum Treatment Pressure (PSI) | |Maximum Treatment Rate (BBLS/Min)",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Date Stimulated Stimulated Formation Top (Ft) |Bottom (Ft)]Stimulation Stages Volume Units",
+      "acid_pct": null,
+      "lbs_proppant": null,
+      "max_treatment_pressure_psi": null,
+      "max_treatment_rate_bbls_min": null,
+      "details": "Type Treatment Lbs Proppant {Maximum Treatment Pressure (PSI) [Maximum Treatment Rate (BBLS/Min)"
+    }
+  },
+  {
+    "file": "W23364.txt",
+    "well_info": {
+      "well_name_and_number": "Atlanta Federal 9-6H",
+      "api": "33-105-02724",
+      "operator": null,
+      "county_state": "Williams County, ND",
+      "well_shl": "CASING:",
+      "datum": "FAX: 701-523-5243",
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": "12/23/2013",
+      "stimulated_formation": "Middle Bakken",
+      "top_ft": 10854,
+      "bottom_ft": 21315,
+      "stimulated_in": null,
+      "stimulation_stages": 34,
+      "volume": 59949,
+      "volume_units": null,
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3970139,
+      "max_treatment_pressure_psi": 8018,
+      "max_treatment_rate_bbls_min": 31.0,
+      "details": "Detzils\nPur ped 158561# 40/70 mesh, 2707161# 20/40 sand and 1104411# 20/40 ceramic."
+    }
+  },
+  {
+    "file": "W23365.txt",
+    "well_info": {
+      "well_name_and_number": "Atlanta Federal 8-6H",
+      "api": "33-105-02725",
+      "operator": null,
+      "county_state": "Williams County, North Dakota",
+      "well_shl": null,
+      "datum": "NAVD 1988 GEOID 09",
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": "12/14/2014",
+      "stimulated_formation": "Forks",
+      "top_ft": 10865,
+      "bottom_ft": 22585,
+      "stimulated_in": null,
+      "stimulation_stages": 38,
+      "volume": 72511,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3764730,
+      "max_treatment_pressure_psi": 8557,
+      "max_treatment_rate_bbls_min": 23.0,
+      "details": "Puniped 96760# 40/70 mesh, 2681100# 20/40 sand and 986870# 20/40 ceramic."
+    }
+  },
+  {
+    "file": "W23366.txt",
+    "well_info": {
+      "well_name_and_number": "Atlanta Federal 7-6H",
+      "api": "33-105-02726",
+      "operator": null,
+      "county_state": "Williams STATE: ND TARGET INCL: 89.94|EAST/WEST: 0.00",
+      "well_shl": "CASING:",
+      "datum": "FAX: 701-523-5243",
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": "Date: Stimulated Top (Ft) | Bottom (Ft) Volume Units",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 4810703,
+      "max_treatment_pressure_psi": 8461,
+      "max_treatment_rate_bbls_min": 28.0,
+      "details": "Detiiils\nPuniped 3459050# 20/40 sand and 1351653# 20/40 ceramic."
+    }
+  },
+  {
+    "file": "W23367.txt",
+    "well_info": {
+      "well_name_and_number": "Atlanta Federal 6-6H",
+      "api": "33-105-02727",
+      "operator": null,
+      "county_state": "[Williams stave: [ND frarcetince: | s.g7feastwest: | 0.00",
+      "well_shl": "CASING:",
+      "datum": "FAX: 701-523-5243",
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": "Type Treatment Maximum Treatment Pressure (PSI) {Maximum Treatment Rate (BBLS/Min)",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3841831,
+      "max_treatment_pressure_psi": 8539,
+      "max_treatment_rate_bbls_min": 24.0,
+      "details": "Pumped 39730# 40/70 mesh, 27340574 20/40 sand and 1068044# 20/40 ceramic."
+    }
+  },
+  {
+    "file": "W23368.txt",
+    "well_info": {
+      "well_name_and_number": "Atlanta Federal 5-6H",
+      "api": "33-105-02728",
+      "operator": null,
+      "county_state": "Williams County, ND",
+      "well_shl": "CASING:",
+      "datum": "FAX: 701-523-5243",
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": "Volume Units",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3651745,
+      "max_treatment_pressure_psi": 7993,
+      "max_treatment_rate_bbls_min": 31.0,
+      "details": "Deiails\nPuinped 2523043# 20/40 sand and 1128702# 20/40 ceramic."
+    }
+  },
+  {
+    "file": "W23369.txt",
+    "well_info": {
+      "well_name_and_number": "SFN 5698 (03-2000)",
+      "api": "33-105-02325",
+      "operator": null,
+      "county_state": "Williams County, North Dakota",
+      "well_shl": "CASING:",
+      "datum": "Calculation method Minimum curvature Do Ne 2 (RKB) to Facility Vertical 1967.00ft",
+      "latitude": "48.1094",
+      "longitude": "103.7329"
+    },
+    "stimulation_data": {
+      "date_stimulated": "Typ: Treatment Maximum Treatment Pressure (PSI) | |Maximum Treatment Rate (BBLS/Min)",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Date: Stimulated Stimulated Formation (Ft) | Bottom (Ft)] Stimulation Stages Volume Units",
+      "acid_pct": null,
+      "lbs_proppant": null,
+      "max_treatment_pressure_psi": null,
+      "max_treatment_rate_bbls_min": null,
+      "details": "Type Treatment Lbs Proppant {Maximum Treatment Pressure (PSI) _|Maximum Treatment Rate (BBLS/Min)"
+    }
+  },
+  {
+    "file": "W23370.txt",
+    "well_info": {
+      "well_name_and_number": "Atlanta 3-6H",
+      "api": "33-105-02730",
+      "operator": null,
+      "county_state": "Garfield County, Oklahoma",
+      "well_shl": "CASING:",
+      "datum": "is Ground Level Vertical Datum to DDZ 22.00 ft",
+      "latitude": "48.1094",
+      "longitude": "103.7312"
+    },
+    "stimulation_data": {
+      "date_stimulated": "3/20/2013",
+      "stimulated_formation": "MB",
+      "top_ft": 11156,
+      "bottom_ft": 20225,
+      "stimulated_in": null,
+      "stimulation_stages": 27,
+      "volume": 44335,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3227114,
+      "max_treatment_pressure_psi": 8059,
+      "max_treatment_rate_bbls_min": 31.0,
+      "details": "Pumped 2251322# 20/40 sand and 975822# 20/40 ceramic."
+    }
+  },
+  {
+    "file": "W23371.txt",
+    "well_info": {
+      "well_name_and_number": "Atlanta 2-6H",
+      "api": "33-105-02731",
+      "operator": null,
+      "county_state": "Williams County, North Dakota",
+      "well_shl": "CASING:",
+      "datum": "Mean Sea Level",
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": null,
+      "stimulated_formation": "'",
+      "top_ft": 2013,
+      "bottom_ft": 45855,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 2980006,
+      "max_treatment_pressure_psi": 8500,
+      "max_treatment_rate_bbls_min": 25.0,
+      "details": "Purr ped 2056996# 20/40 sand and 923010# 20/40 ceramic."
+    }
+  },
+  {
+    "file": "W23372.txt",
+    "well_info": {
+      "well_name_and_number": "Atlanta 1-6H",
+      "api": "33-105-02732",
+      "operator": null,
+      "county_state": "Williams County, ND",
+      "well_shl": "CASING:",
+      "datum": "is Ground Level Vertical Datum to DDZ 1967.00 ft",
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": "Bate Stimulated Stimulated Formation Top (Ft) | Bottom (Ft)|Stimulation Stages Volume Volume Units",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Details",
+      "acid_pct": null,
+      "lbs_proppant": 2138057,
+      "max_treatment_pressure_psi": null,
+      "max_treatment_rate_bbls_min": null,
+      "details": "Pumped 2138057# 20/40 sand and 996496# 20/40 ceramic"
+    }
+  },
+  {
+    "file": "W25156.txt",
+    "well_info": {
+      "well_name_and_number": "Columbus Federal 1-16H",
+      "api": "33-053-04852",
+      "operator": null,
+      "county_state": "of North Dakota, in order to access and develop an oil and gas well drillsite for the drilling of multiple wells:",
+      "well_shl": "7\u201d INTERMEDIATE CSG:",
+      "datum": "North American Datum 1983",
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": "Maximum Treatment Pressure (PSI) _|Maximum Treatment Rate (BBLS/Min)",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Details",
+      "acid_pct": null,
+      "lbs_proppant": null,
+      "max_treatment_pressure_psi": null,
+      "max_treatment_rate_bbls_min": null,
+      "details": "Stimulated Formation"
+    }
+  },
+  {
+    "file": "W25157.txt",
+    "well_info": {
+      "well_name_and_number": "Other NDAC 43-02-03-49",
+      "api": "33-053-04853",
+      "operator": null,
+      "county_state": "API NUMBER",
+      "well_shl": "BOTTOM HOLE LOCATION",
+      "datum": "Mean Sea Level",
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": "Stimulated Formation Top (Ft) | Bottom (Ft)|Stimulation Stages Volume Volume Units",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 8491,
+      "max_treatment_pressure_psi": 31,
+      "max_treatment_rate_bbls_min": null,
+      "details": "Pumped 89291# 40/70 mesh, 1970321# 20/40 sand and 769970# 20/40 ceramic."
+    }
+  },
+  {
+    "file": "W25158.txt",
+    "well_info": {
+      "well_name_and_number": "HZ Other NDAC 43-02-03-49",
+      "api": "33-053-04854",
+      "operator": null,
+      "county_state": "API NUMBER",
+      "well_shl": "BOTTOM HOLE LOCATION",
+      "datum": "Mean Sea Level",
+      "latitude": "48\u00b004'30.876N",
+      "longitude": "103\u00b040'11.681W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "Stimulated Formation Top (Ft) | Bottom (Ft)|Stimulation Stages Volume Volume Units",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Details",
+      "acid_pct": null,
+      "lbs_proppant": 2150603,
+      "max_treatment_pressure_psi": null,
+      "max_treatment_rate_bbls_min": null,
+      "details": "Pumped 2150603# 20/40 sand and 862481# 20/40 ceramic."
+    }
+  },
+  {
+    "file": "W25159.txt",
+    "well_info": {
+      "well_name_and_number": "Other NDAC 43-02-03-49",
+      "api": "33-053-04855",
+      "operator": null,
+      "county_state": "API NUMBER",
+      "well_shl": "BOTTOM HOLE LOCATION",
+      "datum": "Mean Sea Level",
+      "latitude": "48\u00b004'31.258N",
+      "longitude": "103\u00b040'11.343W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "Type Treatment Acid % Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Details",
+      "acid_pct": null,
+      "lbs_proppant": null,
+      "max_treatment_pressure_psi": null,
+      "max_treatment_rate_bbls_min": null,
+      "details": null
+    }
+  },
+  {
+    "file": "W25160.txt",
+    "well_info": {
+      "well_name_and_number": "Other NDAC 43-02-03-49",
+      "api": "33-053-04856",
+      "operator": null,
+      "county_state": "API NUMBER",
+      "well_shl": "BOTTOM HOLE LOCATION",
+      "datum": "Mean Sea Level",
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": "Type Treatment Acid % Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Stimulated Formation Top (Ft) | Bottom (Ft)] Stimulation Stages Units",
+      "acid_pct": null,
+      "lbs_proppant": null,
+      "max_treatment_pressure_psi": null,
+      "max_treatment_rate_bbls_min": null,
+      "details": "Type Treatment Lbs Proppant |Maximum Treatment Pressure (PS!) |Maximum Treatment Rate (BBLS/Min)"
+    }
+  },
+  {
+    "file": "W25571.txt",
+    "well_info": {
+      "well_name_and_number": "Colville 5301 44-12T",
+      "api": "33-053-04981",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "and to the lease",
+      "datum": "Mean Sea Level",
+      "latitude": "48\u00b004'57.78\"N",
+      "longitude": "103\u00b036'28.88\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "Top (Ft) | Bottom (Ft)|Stimulation Stages Volume Volume Units",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3826701,
+      "max_treatment_pressure_psi": 9406,
+      "max_treatment_rate_bbls_min": 36.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W28190.txt",
+    "well_info": {
+      "well_name_and_number": "Lewis Federal 5300 21-31 6B Sec. 31/32 T153N R100W",
+      "api": "33-053-05845",
+      "operator": null,
+      "county_state": "RESERVATION:",
+      "well_shl": "in section 31 into section 32. The well consists of a single Middle Bakken Member lateral,",
+      "datum": "NAD83",
+      "latitude": "48\u00b0 01'54.15\"N",
+      "longitude": "103\u00b0 36'011.18\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "07/16/2019",
+      "stimulated_formation": "Bakken",
+      "top_ft": 11300,
+      "bottom_ft": 20797,
+      "stimulated_in": null,
+      "stimulation_stages": 40,
+      "volume": 311394,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 6052935,
+      "max_treatment_pressure_psi": 9176,
+      "max_treatment_rate_bbls_min": 83.0,
+      "details": "100 Mesh: 3573725"
+    }
+  },
+  {
+    "file": "W28194.txt",
+    "well_info": {
+      "well_name_and_number": "LEWIS FEDERAL 5300 21-31 5B",
+      "api": "33-053-05849",
+      "operator": null,
+      "county_state": "RESERVATION:",
+      "well_shl": "or approx.",
+      "datum": "NAD 8",
+      "latitude": "48\u00b001'54.",
+      "longitude": "103\u00b036'11.18\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "07/16/2019",
+      "stimulated_formation": "Bakken",
+      "top_ft": 11180,
+      "bottom_ft": 20791,
+      "stimulated_in": null,
+      "stimulation_stages": 35,
+      "volume": 323544,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 5990853,
+      "max_treatment_pressure_psi": 8995,
+      "max_treatment_rate_bbls_min": 52.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W28303.txt",
+    "well_info": {
+      "well_name_and_number": "Wade Federal 5300 31-30 11T",
+      "api": "33-053-05906",
+      "operator": null,
+      "county_state": "of North Dakota, towit:",
+      "well_shl": "or approx.",
+      "datum": "NAD 83",
+      "latitude": "48\u00b002'38.97\"N",
+      "longitude": "103\u00b035'53.57\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "03/29/2015",
+      "stimulated_formation": "Three Forks _",
+      "top_ft": 11080,
+      "bottom_ft": 20453,
+      "stimulated_in": null,
+      "stimulation_stages": 36,
+      "volume": 123705,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3976880,
+      "max_treatment_pressure_psi": 8968,
+      "max_treatment_rate_bbls_min": 39.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W28342.txt",
+    "well_info": {
+      "well_name_and_number": "Chalmers 5301 44-24 2TR",
+      "api": "33-053-05924",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": "WAS BASED UPON",
+      "latitude": "48\u00b003'20.82",
+      "longitude": "103\u00b033'43.18"
+    },
+    "stimulation_data": {
+      "date_stimulated": "10/31/2014",
+      "stimulated_formation": "Three Forks",
+      "top_ft": 11043,
+      "bottom_ft": 20883,
+      "stimulated_in": null,
+      "stimulation_stages": 36,
+      "volume": 207943,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3775876,
+      "max_treatment_pressure_psi": 9936,
+      "max_treatment_rate_bbls_min": 73.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W28394.txt",
+    "well_info": {
+      "well_name_and_number": "Wade Federal 5300 41-30 4T",
+      "api": "33-053-05943",
+      "operator": null,
+      "county_state": "McKenzie County, N. Dakota",
+      "well_shl": "1263' FSL & 240' FWL SEC 30, T153N, R100W, McKenzie County, North Dakota.",
+      "datum": "Nad 83",
+      "latitude": "48\u00b002'39.72\"N",
+      "longitude": "103\u00b035'51.93\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "04/08/2015",
+      "stimulated_formation": "Three Forks",
+      "top_ft": 11079,
+      "bottom_ft": 20187,
+      "stimulated_in": null,
+      "stimulation_stages": 50,
+      "volume": 238848,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 9362098,
+      "max_treatment_pressure_psi": 8608,
+      "max_treatment_rate_bbls_min": 35.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W28425.txt",
+    "well_info": {
+      "well_name_and_number": "Wade Federal 5300 41-30 6B",
+      "api": "33-053-05954",
+      "operator": null,
+      "county_state": "API Number",
+      "well_shl": "910' FSL & 280' FWL SEC 30, T153N, R100W, McKenzie County, North Dakota.",
+      "datum": "& Coordinate System Rig Contractor Height Reference",
+      "latitude": "48\u00b002'25.89\"N",
+      "longitude": "103\u00b036'00.24"
+    },
+    "stimulation_data": {
+      "date_stimulated": "04/24/2015",
+      "stimulated_formation": "Bakken",
+      "top_ft": 10032,
+      "bottom_ft": 20425,
+      "stimulated_in": null,
+      "stimulation_stages": 50,
+      "volume": 188339,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 9170249,
+      "max_treatment_pressure_psi": 9033,
+      "max_treatment_rate_bbls_min": 38.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W28554.txt",
+    "well_info": {
+      "well_name_and_number": "Wade Federal 5300 31-30 2B",
+      "api": "33-053-05995",
+      "operator": null,
+      "county_state": "API Number",
+      "well_shl": "1329' FSL & 240' FWL SEC 30, T153N, R100W, McKenzie County, North Dakota.",
+      "datum": "& Coordinate System Rig Contractor Height Reference",
+      "latitude": "48\u00b002'39.72\"N",
+      "longitude": "103\u00b035'51.93\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "04/08/2015",
+      "stimulated_formation": "Bakken",
+      "top_ft": 11034,
+      "bottom_ft": 20595,
+      "stimulated_in": null,
+      "stimulation_stages": 50,
+      "volume": 215747,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 9121901,
+      "max_treatment_pressure_psi": 8832,
+      "max_treatment_rate_bbls_min": 37.0,
+      "details": "40/70 White: 1424311\n20/40 White: 6280250\n20/40 CRC: 1417340"
+    }
+  },
+  {
+    "file": "W28557.txt",
+    "well_info": {
+      "well_name_and_number": "Wade Federal 5300 41-30 7T",
+      "api": "33-053-05998",
+      "operator": null,
+      "county_state": "of North Dakota, towit:",
+      "well_shl": "877' FSL & 280' FWL SEC 30, T153N, R100W, McKenzie County, North Dakota.",
+      "datum": "NAD 83",
+      "latitude": "48\u00b002'39.72\"N",
+      "longitude": "103\u00b035'51.93\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "04/24/2015",
+      "stimulated_formation": "Three Forks",
+      "top_ft": 11167,
+      "bottom_ft": 20517,
+      "stimulated_in": null,
+      "stimulation_stages": 36,
+      "volume": 134353,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac ;",
+      "acid_pct": null,
+      "lbs_proppant": 3973130,
+      "max_treatment_pressure_psi": 9218,
+      "max_treatment_rate_bbls_min": 39.0,
+      "details": "40/70 White: 1437920"
+    }
+  },
+  {
+    "file": "W28599.txt",
+    "well_info": {
+      "well_name_and_number": "Chalmers 5301 44-24 3BR",
+      "api": "33-053-06010",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": "WAS BASED UPON",
+      "latitude": null,
+      "longitude": "103\u00b036'18"
+    },
+    "stimulation_data": {
+      "date_stimulated": "10/30/2014",
+      "stimulated_formation": "Bakken",
+      "top_ft": 10910,
+      "bottom_ft": 20833,
+      "stimulated_in": null,
+      "stimulation_stages": 36,
+      "volume": 206015,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 4076819,
+      "max_treatment_pressure_psi": 9177,
+      "max_treatment_rate_bbls_min": 75.0,
+      "details": "40/70 Ceramic: 1513408\n30/50 Ceramic: 2259661\n100 mesh: 303750"
+    }
+  },
+  {
+    "file": "W28600.txt",
+    "well_info": {
+      "well_name_and_number": "Chalmers 5301 44-24 4T2R",
+      "api": "33-053-06011",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": "WAS BASED UPON",
+      "latitude": "48\u00b003'20",
+      "longitude": "103\u00b036'18"
+    },
+    "stimulation_data": {
+      "date_stimulated": "11/25/2014",
+      "stimulated_formation": "Three Forks",
+      "top_ft": 11074,
+      "bottom_ft": 20938,
+      "stimulated_in": null,
+      "stimulation_stages": 36,
+      "volume": 98038,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 6229694,
+      "max_treatment_pressure_psi": 8877,
+      "max_treatment_rate_bbls_min": 38.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W28601.txt",
+    "well_info": {
+      "well_name_and_number": "LEWIS FEDERAL 5300 31-31H",
+      "api": "33-053-06012",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": ". WAS BASED UPON",
+      "latitude": "48\u00b003'11",
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": "11/25/2014",
+      "stimulated_formation": "Three Forks",
+      "top_ft": 11418,
+      "bottom_ft": 21025,
+      "stimulated_in": null,
+      "stimulation_stages": 36,
+      "volume": 95600,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 9370930,
+      "max_treatment_pressure_psi": 9044,
+      "max_treatment_rate_bbls_min": 37.2,
+      "details": null
+    }
+  },
+  {
+    "file": "W28633.txt",
+    "well_info": {
+      "well_name_and_number": "Chalmers 5300 21-19 5T",
+      "api": "33-053-06018",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": ". NAD 83",
+      "latitude": "48\u00b003'42",
+      "longitude": "103\u00b036'10.11\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "04/25/2015",
+      "stimulated_formation": "Three Forks f",
+      "top_ft": 11140,
+      "bottom_ft": 20904,
+      "stimulated_in": null,
+      "stimulation_stages": 3,
+      "volume": 206323,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 4332421,
+      "max_treatment_pressure_psi": 9320,
+      "max_treatment_rate_bbls_min": 72.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W28634.txt",
+    "well_info": {
+      "well_name_and_number": "Chalmers 5300 21-19 6B",
+      "api": "33-053-06019",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": "NAD 83",
+      "latitude": "48\u00b003'69.20\"N",
+      "longitude": "103\u00b036'10.11\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "04/25/2015",
+      "stimulated_formation": "Bakken .",
+      "top_ft": 11080,
+      "bottom_ft": 20580,
+      "stimulated_in": null,
+      "stimulation_stages": 3,
+      "volume": 223578,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3879492,
+      "max_treatment_pressure_psi": 9244,
+      "max_treatment_rate_bbls_min": 75.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W28636.txt",
+    "well_info": {
+      "well_name_and_number": "Chalmers 5300 21-19 8T",
+      "api": "33-053-06021",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": "NAD 83",
+      "latitude": "48\u00b003'41",
+      "longitude": "103\u00b036'10.11\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "04/25/2015",
+      "stimulated_formation": "Three Forks",
+      "top_ft": 11165,
+      "bottom_ft": 20511,
+      "stimulated_in": null,
+      "stimulation_stages": 3,
+      "volume": 96178,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 4011690,
+      "max_treatment_pressure_psi": 9390,
+      "max_treatment_rate_bbls_min": 40.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W28637.txt",
+    "well_info": {
+      "well_name_and_number": "Chalmers 5300 21-19 10T",
+      "api": "33-053-06022",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": "NAD 83 hie GPS SURVEY DATUM: NAD 83",
+      "latitude": "48\u00b003'40",
+      "longitude": "103\u00b036'10.11\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "04/08/2015",
+      "stimulated_formation": "Three Forks",
+      "top_ft": 11118,
+      "bottom_ft": 20558,
+      "stimulated_in": null,
+      "stimulation_stages": 36,
+      "volume": 214367,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3828642,
+      "max_treatment_pressure_psi": 9063,
+      "max_treatment_rate_bbls_min": 75.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W28648.txt",
+    "well_info": {
+      "well_name_and_number": "Chalmers 5300 21-19 9B",
+      "api": "33-053-06023",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": "; NAD 83",
+      "latitude": "48\u00b003'37",
+      "longitude": "103\u00b053'43"
+    },
+    "stimulation_data": {
+      "date_stimulated": "04/27/2015",
+      "stimulated_formation": "Bakken",
+      "top_ft": 11080,
+      "bottom_ft": 20435,
+      "stimulated_in": null,
+      "stimulation_stages": 36,
+      "volume": 215116,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3817790,
+      "max_treatment_pressure_psi": 9426,
+      "max_treatment_rate_bbls_min": 75.0,
+      "details": "100 Mesh White: 286610"
+    }
+  },
+  {
+    "file": "W28649.txt",
+    "well_info": {
+      "well_name_and_number": "Chalmers 5300 21-19 11B 7",
+      "api": "33-053-06024",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": "NAD 53 ae = bes",
+      "latitude": "48\u00b003'31",
+      "longitude": "103\u00b036'10.11\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "04/07/2015",
+      "stimulated_formation": "Bakken",
+      "top_ft": 11065,
+      "bottom_ft": 20675,
+      "stimulated_in": null,
+      "stimulation_stages": 36,
+      "volume": 209363,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 3768710,
+      "max_treatment_pressure_psi": 9499,
+      "max_treatment_rate_bbls_min": 75.0,
+      "details": "100 Mesh White: 270990\n40/70 Ceramic: 1404730\n30/50 Ceramic: 2092990"
+    }
+  },
+  {
+    "file": "W28651.txt",
+    "well_info": {
+      "well_name_and_number": "600 EAST BOULEVARD DEPT 405 JUL 2014",
+      "api": "33-053-06025",
+      "operator": null,
+      "county_state": "Chemical Company",
+      "well_shl": "or approximately 1265.43' FSL & 253.79' FEL of SE SE Sec.",
+      "datum": "ae",
+      "latitude": "48\u00b004'08.53",
+      "longitude": "103\u00b033'43.33\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "06/26/2015",
+      "stimulated_formation": "Three Forks",
+      "top_ft": 11150,
+      "bottom_ft": 20737,
+      "stimulated_in": null,
+      "stimulation_stages": 50,
+      "volume": 170347,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 9426950,
+      "max_treatment_pressure_psi": 8928,
+      "max_treatment_rate_bbls_min": 37.0,
+      "details": "100 Mesh White: 220000\n40/70 White: 1224040\n20/40 White: 6593310"
+    }
+  },
+  {
+    "file": "W28652.txt",
+    "well_info": {
+      "well_name_and_number": "Kline Federal 5300 41-18 10B",
+      "api": "33-053-06026",
+      "operator": null,
+      "county_state": "Chemical Company",
+      "well_shl": "254.45'S & 9968.39\" E",
+      "datum": "(Surf Loc) GR to surf; CND through the Dakota",
+      "latitude": "48\u00b004'08.20\"N",
+      "longitude": "103\u00b033'43.32\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "06/26/2015",
+      "stimulated_formation": "Bakken",
+      "top_ft": 11125,
+      "bottom_ft": 20460,
+      "stimulated_in": null,
+      "stimulation_stages": 50,
+      "volume": 192526,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 9254340,
+      "max_treatment_pressure_psi": 8844,
+      "max_treatment_rate_bbls_min": 39.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W28654.txt",
+    "well_info": {
+      "well_name_and_number": "Kline Federal 5300 41-18 13T2X",
+      "api": "33-053-06028",
+      "operator": null,
+      "county_state": "Chemical Company",
+      "well_shl": "or approximately 198.11' FNL & 280.4' FEL of NE",
+      "datum": "Dist to target | Est. TVD MSL Datum Dist to target",
+      "latitude": "48\u00b004'01",
+      "longitude": "103\u00b036'11.36\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "06/09/2015",
+      "stimulated_formation": "Three Forks Second Bench",
+      "top_ft": 11185,
+      "bottom_ft": 20754,
+      "stimulated_in": null,
+      "stimulation_stages": 5,
+      "volume": 126978,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 4230380,
+      "max_treatment_pressure_psi": 9122,
+      "max_treatment_rate_bbls_min": 39.0,
+      "details": "100 Mesh White: 219480\n20/40 White: 1882960"
+    }
+  },
+  {
+    "file": "W28655.txt",
+    "well_info": {
+      "well_name_and_number": "Kline Federal 5300 41-18 14BX",
+      "api": "33-053-06029",
+      "operator": null,
+      "county_state": "McKenzie Co., ND",
+      "well_shl": "or approx.",
+      "datum": "ND 83",
+      "latitude": "48\u00b0 4'6.900 N",
+      "longitude": "103.602344"
+    },
+    "stimulation_data": {
+      "date_stimulated": "06/09/2015",
+      "stimulated_formation": "Bakken",
+      "top_ft": 11113,
+      "bottom_ft": 20645,
+      "stimulated_in": null,
+      "stimulation_stages": 50,
+      "volume": 214895,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 9543260,
+      "max_treatment_pressure_psi": 9411,
+      "max_treatment_rate_bbls_min": 41.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W28658.txt",
+    "well_info": {
+      "well_name_and_number": "Kline Federal 5300 41-18 12TX",
+      "api": "33-053-06030",
+      "operator": null,
+      "county_state": "Chemical Company",
+      "well_shl": "or approximately 199.00' FSL & 257.93' FEL of SE",
+      "datum": "(Surf Loc) GR to surf; CND through the Dakota",
+      "latitude": "48\u00b004'07.55\"N",
+      "longitude": "103\u00b036'11.95\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "06/09/2015",
+      "stimulated_formation": "Three Forks",
+      "top_ft": 11175,
+      "bottom_ft": 20579,
+      "stimulated_in": null,
+      "stimulation_stages": 50,
+      "volume": 186083,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 9450980,
+      "max_treatment_pressure_psi": 9405,
+      "max_treatment_rate_bbls_min": 38.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W28744.txt",
+    "well_info": {
+      "well_name_and_number": "Wade Federla 5300 41-30 9B",
+      "api": "33-053-06051",
+      "operator": null,
+      "county_state": "of North Dakota, towit:",
+      "well_shl": "811' FSL & 280' FWL SEC 30, T153N, R1O00W, McKenzie County, North Dakota.",
+      "datum": "NAD 83 AZ 359\u00b055\u201900\u201d",
+      "latitude": "48\u00b002'25.89\"N",
+      "longitude": "103\u00b036'00.24\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "Bakken",
+      "stimulated_formation": null,
+      "top_ft": 11552,
+      "bottom_ft": 20265,
+      "stimulated_in": null,
+      "stimulation_stages": 5,
+      "volume": 171968,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 9289252,
+      "max_treatment_pressure_psi": 9310,
+      "max_treatment_rate_bbls_min": 37.0,
+      "details": "40/70 White: 1188022\n20/40 White: 6518120\n20/40 RC: 1395110\n100 Mesh: 188000"
+    }
+  },
+  {
+    "file": "W28754.txt",
+    "well_info": {
+      "well_name_and_number": "Kline Federal 5300 31-18 8B",
+      "api": "33-053-06055",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": "NAD 83",
+      "latitude": "48\u00b004'26.58\"N",
+      "longitude": "103\u00b036'11.38\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "07/13/2015",
+      "stimulated_formation": "Bakken",
+      "top_ft": 18852,
+      "bottom_ft": 20390,
+      "stimulated_in": null,
+      "stimulation_stages": 6,
+      "volume": 19114,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 577940,
+      "max_treatment_pressure_psi": 8860,
+      "max_treatment_rate_bbls_min": 36.7,
+      "details": null
+    }
+  },
+  {
+    "file": "W28755.txt",
+    "well_info": {
+      "well_name_and_number": "Kline Federal 5300 31-18 7T",
+      "api": "33-053-06056",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": "NAD",
+      "latitude": "48\u00b004'27.84",
+      "longitude": "103\u00b036'11.38\"w"
+    },
+    "stimulation_data": {
+      "date_stimulated": "07/12/2015",
+      "stimulated_formation": "Three Forks",
+      "top_ft": 19681,
+      "bottom_ft": 20551,
+      "stimulated_in": null,
+      "stimulation_stages": 3,
+      "volume": 10330,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 295940,
+      "max_treatment_pressure_psi": 8729,
+      "max_treatment_rate_bbls_min": 35.9,
+      "details": "100 Mesh White: 21060\n40/70 White: 107840\n30/50 White; 167040"
+    }
+  },
+  {
+    "file": "W28756.txt",
+    "well_info": {
+      "well_name_and_number": "Kline Federal 5300 31-18 6B",
+      "api": "33-053-06057",
+      "operator": null,
+      "county_state": "McKenzie County, N. Dakota",
+      "well_shl": "or approx.",
+      "datum": "Nad 83",
+      "latitude": "48\u00b004'20.81",
+      "longitude": "103\u00b056'11.358\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "07/13/2015",
+      "stimulated_formation": "Bakken",
+      "top_ft": 11108,
+      "bottom_ft": 20592,
+      "stimulated_in": null,
+      "stimulation_stages": 36,
+      "volume": 220489,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 4243874,
+      "max_treatment_pressure_psi": 9096,
+      "max_treatment_rate_bbls_min": 71.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W28976.txt",
+    "well_info": {
+      "well_name_and_number": "Wade Federal 5300 21-30 12T",
+      "api": "33-053-06129",
+      "operator": null,
+      "county_state": "of North Dakota, towit:",
+      "well_shl": "or approx.",
+      "datum": "NAD 83 AZ 359\u00b055'00\u201d",
+      "latitude": "48\u00b002'25.89\"N",
+      "longitude": "103\u00b036'00.24"
+    },
+    "stimulation_data": {
+      "date_stimulated": "03/16/2015",
+      "stimulated_formation": "Three Forks",
+      "top_ft": 11078,
+      "bottom_ft": 20374,
+      "stimulated_in": null,
+      "stimulation_stages": 50,
+      "volume": 190732,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 9170590,
+      "max_treatment_pressure_psi": 9035,
+      "max_treatment_rate_bbls_min": 43.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W28978.txt",
+    "well_info": {
+      "well_name_and_number": "1100 2350 24-Hour Rate 874 1412 900",
+      "api": "33-053-06131",
+      "operator": null,
+      "county_state": "of North Dakota, towit:",
+      "well_shl": "or approx.",
+      "datum": "NAD 83 AZ 359\u00b055'00\u201d",
+      "latitude": "48\u00b002'25.89\"N",
+      "longitude": "103\u00b036'00.24"
+    },
+    "stimulation_data": {
+      "date_stimulated": "03/16/2015",
+      "stimulated_formation": "Bakken",
+      "top_ft": 11000,
+      "bottom_ft": 20535,
+      "stimulated_in": null,
+      "stimulation_stages": 50,
+      "volume": 187400,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 6583070,
+      "max_treatment_pressure_psi": 9040,
+      "max_treatment_rate_bbls_min": 40.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W29242.txt",
+    "well_info": {
+      "well_name_and_number": "Kline Federal 5300 11-18 5B",
+      "api": "33-053-06223",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": "WAS BASED UPON",
+      "latitude": "48\u00b004'30.32\"N",
+      "longitude": "103\u00b033'42.547w"
+    },
+    "stimulation_data": {
+      "date_stimulated": "07/16/2015",
+      "stimulated_formation": "Bakken",
+      "top_ft": 110893,
+      "bottom_ft": 20891,
+      "stimulated_in": null,
+      "stimulation_stages": 36,
+      "volume": 209044,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 4192230,
+      "max_treatment_pressure_psi": 9205,
+      "max_treatment_rate_bbls_min": 73.0,
+      "details": "100 Mesh White: 296000\n40/70 White: 1554520\n30/50 White: 1755330"
+    }
+  },
+  {
+    "file": "W29244.txt",
+    "well_info": {
+      "well_name_and_number": "Kline Federal 5300 11-18 3T",
+      "api": "33-053-06225",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": "NAD 83",
+      "latitude": "48\u00b004'36.79\"",
+      "longitude": "103\u00b033'42.557W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "07/17/2015",
+      "stimulated_formation": "Three Forks",
+      "top_ft": 11101,
+      "bottom_ft": 20835,
+      "stimulated_in": null,
+      "stimulation_stages": 36,
+      "volume": 208220,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 4183070,
+      "max_treatment_pressure_psi": 9386,
+      "max_treatment_rate_bbls_min": 76.0,
+      "details": "100 Mesh White: 301340\n40/70 White: 1556480\n30/50 White: 1742280\n30/50 Resin Coated: 511100\n20/40 Resin Coated: 71870"
+    }
+  },
+  {
+    "file": "W29316.txt",
+    "well_info": {
+      "well_name_and_number": "Gramma Federal 5300 41-31 12B",
+      "api": "33-053-06231",
+      "operator": null,
+      "county_state": "McKenzie County, N. Dakota",
+      "well_shl": "SW SW SEC 31, T153N, RIOOW, 647' FSL & 320' FWL, McKenzie",
+      "datum": "Nad 83",
+      "latitude": "48\u00b0 01'34.22N",
+      "longitude": "103\u00b033'43.76\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "05/26/2015",
+      "stimulated_formation": "Bakken",
+      "top_ft": 11132,
+      "bottom_ft": 20435,
+      "stimulated_in": null,
+      "stimulation_stages": 50,
+      "volume": 168692,
+      "volume_units": "Barrels",
+      "type_treatment": null,
+      "acid_pct": null,
+      "lbs_proppant": 9139069,
+      "max_treatment_pressure_psi": null,
+      "max_treatment_rate_bbls_min": null,
+      "details": "Sand Frac 9676 37.6"
+    }
+  },
+  {
+    "file": "W29317.txt",
+    "well_info": {
+      "well_name_and_number": "Gramma Federal 5300 41-31 13T",
+      "api": "33-053-06232",
+      "operator": null,
+      "county_state": "McKenzie County, N. Dakota",
+      "well_shl": "SW SW SEC 31, T153N, RI1OOW, 713' FSL & 320'FWL, McKenzie",
+      "datum": "Nad 83",
+      "latitude": "48\u00b0 1'42.010N",
+      "longitude": "103\u00b036'10.35\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "06/26/2015",
+      "stimulated_formation": "Three Forks",
+      "top_ft": 11228,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Sand Frac F",
+      "acid_pct": null,
+      "lbs_proppant": 9246908,
+      "max_treatment_pressure_psi": 8985,
+      "max_treatment_rate_bbls_min": 10.4,
+      "details": null
+    }
+  },
+  {
+    "file": "W29334.txt",
+    "well_info": {
+      "well_name_and_number": "Kline Federal 5300 11-18 2B",
+      "api": "33-053-06243",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": "NAD 83",
+      "latitude": "46\u00b004'45.68",
+      "longitude": "103\u00b036'10.19"
+    },
+    "stimulation_data": {
+      "date_stimulated": "07/16/2015",
+      "stimulated_formation": "Bakken",
+      "top_ft": 11024,
+      "bottom_ft": 20445,
+      "stimulated_in": null,
+      "stimulation_stages": 36,
+      "volume": 209640,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 4168220,
+      "max_treatment_pressure_psi": 9141,
+      "max_treatment_rate_bbls_min": 73.0,
+      "details": "100 Mesh White: 295320 |\n40/70 white: 1555360\n30/50 White: 1740010\n|"
+    }
+  },
+  {
+    "file": "W30188.txt",
+    "well_info": {
+      "well_name_and_number": "LEWIS FEDERAL 5300 11-31 3B",
+      "api": "33-053-06548",
+      "operator": null,
+      "county_state": "RESERVATION:",
+      "well_shl": "in Section 31 into Section 32. The well consists of a single Middle",
+      "datum": "North American Datum 1983",
+      "latitude": "48\u00b002'08.98\"N",
+      "longitude": "103\u00b036'11.11\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "06/20/2019",
+      "stimulated_formation": "Bakken",
+      "top_ft": 11184,
+      "bottom_ft": 20797,
+      "stimulated_in": null,
+      "stimulation_stages": 40,
+      "volume": 329963,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 6006140,
+      "max_treatment_pressure_psi": 9015,
+      "max_treatment_rate_bbls_min": 73.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W30189.txt",
+    "well_info": {
+      "well_name_and_number": "SFN 5698 (03-2000) ihe da ca 4",
+      "api": "33-053-06549",
+      "operator": null,
+      "county_state": "McKenzie County, North Dakota",
+      "well_shl": "in section 31 into section 32. The well consists of a single Middle Bakken",
+      "datum": "North American Datum 1983",
+      "latitude": "48\u00b002'15",
+      "longitude": "103\u00b036'11.06\"W"
+    },
+    "stimulation_data": {
+      "date_stimulated": "06/20/2019",
+      "stimulated_formation": "Bakken",
+      "top_ft": 11160,
+      "bottom_ft": 20807,
+      "stimulated_in": null,
+      "stimulation_stages": 40,
+      "volume": 305814,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 6010700,
+      "max_treatment_pressure_psi": 9259,
+      "max_treatment_rate_bbls_min": 73.0,
+      "details": null
+    }
+  },
+  {
+    "file": "W30789.txt",
+    "well_info": {
+      "well_name_and_number": "Kline Federal 5300 31-18 15T",
+      "api": "33-053-06755",
+      "operator": null,
+      "county_state": "BASIN:",
+      "well_shl": "or approx.",
+      "datum": "Interval | Thickness Dip To Dip To Dip To Dip To",
+      "latitude": "48\u00b004'30.13\"N",
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": "07/13/2015",
+      "stimulated_formation": "Three Forks",
+      "top_ft": 19506,
+      "bottom_ft": 20531,
+      "stimulated_in": null,
+      "stimulation_stages": 4,
+      "volume": 13837,
+      "volume_units": "Barrels",
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": 404000,
+      "max_treatment_pressure_psi": 8765,
+      "max_treatment_rate_bbls_min": 36.2,
+      "details": null
+    }
+  },
+  {
+    "file": "W36047.txt",
+    "well_info": {
+      "well_name_and_number": "LEWIS FEDERAL 5300 11-31 4BR",
+      "api": "33-053-08946",
+      "operator": null,
+      "county_state": "McKenzie County, North Dakota",
+      "well_shl": "or approx.",
+      "datum": "North American Datum 1983",
+      "latitude": "48\u00b002'08.",
+      "longitude": "103\u00b036'11"
+    },
+    "stimulation_data": {
+      "date_stimulated": "Barrels",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Sand Frac",
+      "acid_pct": null,
+      "lbs_proppant": null,
+      "max_treatment_pressure_psi": null,
+      "max_treatment_rate_bbls_min": null,
+      "details": null
+    }
+  },
+  {
+    "file": "W90244.txt",
+    "well_info": {
+      "well_name_and_number": "Buck Shot SWD 5300 31-31",
+      "api": "33-053-90244",
+      "operator": null,
+      "county_state": "McKenzie Co., North Dakota",
+      "well_shl": "or approx.",
+      "datum": "NAD 83",
+      "latitude": "48\u00b001'44.77",
+      "longitude": "103\u00b035'58.47"
+    },
+    "stimulation_data": {
+      "date_stimulated": "Stimulated Formation Top (Ft) | Bottom (Ft)}Stimulation Stages Volume Volume Units",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Acid",
+      "acid_pct": 100.0,
+      "lbs_proppant": null,
+      "max_treatment_pressure_psi": null,
+      "max_treatment_rate_bbls_min": null,
+      "details": "3\n=\na\n3\n\u00ae\n="
+    }
+  },
+  {
+    "file": "W90258.txt",
+    "well_info": {
+      "well_name_and_number": "City of Wiliston P.O. Box 1306 Williston, ND 58802 154-101 SEC 31: Lot 5",
+      "api": "40-523-49000",
+      "operator": null,
+      "county_state": "Williams County, North Dakota",
+      "well_shl": null,
+      "datum": "Mean Sea Level",
+      "latitude": null,
+      "longitude": null
+    },
+    "stimulation_data": {
+      "date_stimulated": "3/1/2043",
+      "stimulated_formation": null,
+      "top_ft": 6000,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": null,
+      "acid_pct": 45.0,
+      "lbs_proppant": 0,
+      "max_treatment_pressure_psi": 2670,
+      "max_treatment_rate_bbls_min": 6.0,
+      "details": "Interval treated under a packer"
+    }
+  },
+  {
+    "file": "W90329.txt",
+    "well_info": {
+      "well_name_and_number": "CARSON SWD 5301 12-24",
+      "api": "33-053-90329",
+      "operator": null,
+      "county_state": "Mountrail Co, ND",
+      "well_shl": "(survey plat):",
+      "datum": "NAD 83",
+      "latitude": "48\u00b003'57.89\"N",
+      "longitude": "103\u00b036'56"
+    },
+    "stimulation_data": {
+      "date_stimulated": "Barrels",
+      "stimulated_formation": null,
+      "top_ft": null,
+      "bottom_ft": null,
+      "stimulated_in": null,
+      "stimulation_stages": null,
+      "volume": null,
+      "volume_units": null,
+      "type_treatment": "Date Stimulated Stimulated Formation Top (Ft) |Bottom (Ft)/Stimulation Stages Volume Units",
+      "acid_pct": null,
+      "lbs_proppant": null,
+      "max_treatment_pressure_psi": null,
+      "max_treatment_rate_bbls_min": null,
+      "details": "Type Treatment Lbs Proppant |Maximum Treatment Pressure (PSI) {Maximum Treatment Rate (BBLS/Min)"
+    }
+  }
+]

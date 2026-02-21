@@ -18,7 +18,7 @@ def get_connector():
 
 def get_before(conn):
     with conn.cursor() as cur:
-        cur.execute("SELECT * FROM PUBLIC.BEFORE")
+        cur.execute("SELECT WELL_NAME, API_NO FROM PUBLIC.BEFORE")
         df = cur.fetch_pandas_all()
     return df
 
@@ -26,11 +26,41 @@ def set_before(conn, row: List):
     """
     row[0]: WELL_NAME
     row[1]: API_NO
+    row[2]: COUNTY_STATE
+    row[3]: well_shl
+    row[4]: DATUM
+    row[5]: DATE_STIMULATED
+    row[6]: STIMULATED_FORMATION
+    row[7]: TOP_FT
+    row[8]: BOTTOM_FT
+    row[9]: STIMULATED_IN
+    row[10]: STIMUALTED_STAGES
+    row[11]: VOLUME_
+    row[12]: VOLUME_UNITS,
+    row[13]: TYPE_TREATMENT
+    row[14]: ACID_PCT
+    row[15]: LBS_PROPPANT
+    row[16]: MAX_TREATMENT_PRESSURE_PSI
+    row[17]: MAX_TREATMENT_RATE_BBLS_MIN
+    row[18]: DETAILS
     """
+    if not (row[0] or row[1]):
+        return
+    
+    values = ""
+    for i in range(len(row)):
+        if row[i]:
+            row[i] = row[i].replace("'", '')
+            values += f"'{row[i]}',"
+        else:
+            values += "NULL,"
+
+    values = values[:-1]
+    
     with conn.cursor() as cur:
         cur.execute(
             f"""
-            INSERT INTO PUBLIC.BEFORE VALUES ('{row[0]}', '{row[1]}')
+            INSERT INTO PUBLIC.BEFORE VALUES ({values})
             """)
 
 def get_after(conn):
@@ -52,30 +82,24 @@ def set_after(conn, row: List):
     row[8]: Oil produced | Optional[str]
     row[9]: Gas produced | Optional[str]
     """
-    def check(row: List) -> bool:
-        for i in range(8):
-            if not row[i]:
-                return False
-        
-        return True
-    
-    if not check(row):
+    if not (row[0] or row[1]):
         return
     
-    for i in range(8, 10):
+    values = ""
+    for i in range(len(row)):
         if row[i]:
-            row[i] = "'" + row[i] + "'"
+            row[i] = row[i].replace("'", '')
+            values += f"'{row[i]}',"
+        else:
+            values += "NULL,"
+
+    values = values[:-1]
             
     with conn.cursor() as cur:
         cur.execute(
             f"""
-            INSERT INTO PUBLIC.AFTER VALUES (
-            	'{row[0]}', '{row[1]}', '{row[2]}',
-            	'{row[3]}', '{row[4]}', '{row[5]}',
-            	'{row[6]}', '{row[7]}',
-            	{row[8] if row[8] else 'NULL'},
-            	{row[9] if row[9] else 'NULL'}
-            )""")
+            INSERT INTO PUBLIC.AFTER VALUES ({values})
+            """)
 
 from web_well_information import search_well
 if __name__ == "__main__":
