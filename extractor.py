@@ -20,6 +20,8 @@ _API_LABELLED_RE = re.compile(
 )
 _OCR_DIGIT_TABLE = str.maketrans({"O": "0", "o": "0", "I": "1", "l": "1", "i": "1"})
 
+# Tokenizes numbers from a string while preserving commas inside them.
+# example: "1,234,567.89" -> ["1,234,567.89"] not ["1","234","567","89"]
 _NUM_RE = re.compile(r"\d+(?:,\d{3})*(?:\.\d+)?")
 
 _WELL_NAME_LABEL_RE = re.compile(r"Well\s+(?:or\s+Facility\s+)?Name\s+(?:and\s+Number)?", re.I)
@@ -158,7 +160,7 @@ def _clean_well_name(name: str) -> str:
 def _is_well_name(line: str) -> bool:
     """
     Returns True if line looks like a well name:
-    - Starts with an English word (2+ ENG chars)
+    - Starts with an English word (2+ ENG chars) (Capitalized)
     - Contains a number component (possibly hyphenated like 34-3H, 41-12T)
     - Is not a form header, company name, or noise line
     """
@@ -174,7 +176,7 @@ def _is_well_name(line: str) -> bool:
     if _DATE_RE.search(line):
         return False
     
-    # 3 exclude conditions that mentioned above
+    # Conditions that mentioned above
     if not re.match(r"[A-Z][A-Za-z]", line):
         return False
     if not re.search(r"[A-Za-z]{2,}", line):
@@ -314,8 +316,8 @@ def _extract_operator(text: str) -> Optional[str]:
             if line:
                 break
 
-    # Pattern 2b: "Operator" followed by other column headers on same line →
-    # company is on the very next non-empty line
+    # Pattern 2b: "Operator <column headers>" -> company on the next line. 
+    # This is the most common layout in these ND forms.
     for m in re.finditer(r"^[ \t]*Operator\b[^\n]+", text, re.I | re.M):
         if ":" in m.group(0):
             continue  # handled by Pattern 1
@@ -326,7 +328,8 @@ def _extract_operator(text: str) -> Optional[str]:
             if line:
                 break
 
-    # Pattern 3: company+phone inline (1+ spaces before phone)
+    # Pattern 3: Company name + phone number on the same line —> 
+    # catches cases like "Oasis Petroleum North America LLC 281 404-9563" where no "Operator" label precedes it.
     for m in re.compile(r"^(.+?)\s+\(?\d{3}\)?[\s\-\.]\d{3}[\s\-\.]\d{4}", re.M).finditer(text):
         candidate = m.group(1).strip()
         if looks_like_company(candidate) and not re.search(r"\bOperator\b", candidate, re.I):
@@ -567,7 +570,7 @@ def _extract_well_info(pages: list[str], full_text: str) -> dict:
     well_name = _extract_well_name(pages)
     api = _extract_api(full_text)
 
-    # Operator: prefer page with "Well Name and Number" label
+    # Operator: prefer page with "Well Name and Number" label (usually both are in sundry form)
     form_page = next((p for p in pages if _WELL_NAME_LABEL_RE.search(p)), None)
     operator = _extract_operator(form_page or full_text)
 
