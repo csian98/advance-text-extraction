@@ -3,6 +3,7 @@ import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import { useEffect } from "react";
 import { useImmerReducer } from "use-immer";
+import "./leafletIconFix";
 
 type Action = { type: "SET_WELLS"; payload: [] };
 
