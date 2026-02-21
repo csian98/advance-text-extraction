@@ -1,3 +1,7 @@
 venv/
 raw-txt*/
 __pycache__/
+.env
+__pycache__/
+*.pyc
+*.pyo

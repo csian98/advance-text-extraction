@@ -36,3 +36,16 @@ typing-extensions==4.15.0
 typing-inspection==0.4.2
 tzdata==2025.3
 urllib3==1.26.20
+stack-data==0.6.3
+tornado==6.5.4
+traitlets==5.14.3
+typing_extensions==4.15.0
+wcwidth==0.6.0
+dotenv
+snowflake-connector-python[pandas]
+flask
+flask-cors
+requests
+beautifulsoup4
+pandas
+python-dotenv
