@@ -100,19 +100,3 @@ def set_after(conn, row: List):
             f"""
             INSERT INTO PUBLIC.AFTER VALUES ({values})
             """)
-
-from web_well_information import search_well
-if __name__ == "__main__":
-    conn = get_connector()
-    well_name = "Kline Federal 5300 31-18 7T"
-    api = "33-053-06056"
-
-    set_before(conn, [well_name, api])
-    before_df = get_before(conn)
-    print(before_df)
-
-    row = search_well(before_df.iloc[0, 0], before_df.iloc[0, 1])
-    set_after(conn, row)
-    after_df = get_after(conn)
-    print(after_df)
-    

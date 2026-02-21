@@ -102,9 +102,4 @@ def search_well(well_name: str, api: str) -> List:
         return [None] * 10
 
     return get_extra_information(hyperlink)
-        
-if __name__ == "__main__":
-    well_name = "Kline Federal 5300 31-18 7T"
-    api = "33-053-06056"
-    information = search_well(well_name, api)
-    print(information)
+
